@@ -27,7 +27,7 @@ body {
 
 /* Hero Section */
 .hero{
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/background.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("https://www.pinterest.com/pin/77405687340852103/");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -101,4 +101,5 @@ footer a:hover {
     border: 3px solid #555;
     box-shadow: 0 0 20px rgba(255,255,255,0.1);
 }
+
 
